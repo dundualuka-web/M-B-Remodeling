@@ -1,0 +1,19 @@
+@import url(./variables.css);
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--primary-color);
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header{
+    height: 141px;
+    background-color: var(--primary-color);
+    
+}
+
